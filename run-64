@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./bin/maze-game-64
