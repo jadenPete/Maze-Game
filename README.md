@@ -1,4 +1,13 @@
 # Maze-Game
-#### An Interactive Game in Which the Player Must Move Around to Solve a Maze
 
-Maze Game is a game written in C++ using OpenGL, utilizing the Depth-First Search algorithm to generate random mazes. It leaves the player to solve maze through moving around. Once the player finishes the maze, it incriments the score and starts again.
+#### An interactive game whose player navigates randomly generated mazes from entrance to exit
+
+- Written in C++
+- Uses OpenGL
+- Uses a depth-first search generation algorithm
+
+## Compilation
+`$ ./build-64` or `$ ./build-32` depending on whether your computer is 64 or 32-bit, respectively
+
+## Execution
+`$ ./run-64` or `$ ./run-32` depending on whether your computer is 64 or 32-bit, respectively
